@@ -3,12 +3,13 @@ import { Cuenta } from './cuenta';
 import { Transferencia } from './transferencia';
 
 export interface User {
-    id: number;
-    nombre: string;
-    apellido: string;
-    mail: string;
-    dni: number;
-    cuentas: Cuenta[];
-    contactos: Contacto[];
-    transferencias: Transferencia[];
+    Id?: number;
+    Firstname?: string;
+    Password: string;
+    Lastname?: string;
+    Email: string;
+    Dni?: number;
+    Cuentas?: Cuenta[];
+    Contactos?: Contacto[];
+    Transferencias?: Transferencia[];
 }

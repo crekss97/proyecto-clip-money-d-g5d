@@ -71,7 +71,8 @@
         "serve": {
           "builder": "@angular-devkit/build-angular:dev-server",
           "options": {
-            "browserTarget": "wallet-app:build"
+            "browserTarget": "wallet-app:build",
+            "proxyConfig": "proxy.conf.json"
           },
           "configurations": {
             "production": {

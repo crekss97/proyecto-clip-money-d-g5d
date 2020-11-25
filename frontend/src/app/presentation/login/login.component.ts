@@ -1,6 +1,9 @@
+import { Message } from '@angular/compiler/src/i18n/i18n_ast';
 import { Component, OnInit } from '@angular/core';
 import { FormBuilder, FormGroup, Validators } from '@angular/forms';
 import { Router } from '@angular/router';
+import { User } from 'src/app/core/models/usuario';
+import { AuthService } from 'src/app/core/services/auth.service';
 
 @Component({
   selector: 'app-login',
@@ -12,10 +15,12 @@ export class LoginComponent implements OnInit {
   form: FormGroup;
   loading: Boolean;
   isInvalid: Boolean = false;
+  user: User;
 
   constructor(
     private formBuilder: FormBuilder,
-    private router: Router
+    private router: Router,
+    private authService: AuthService
     ) { }
 
   ngOnInit(): void {
@@ -29,13 +34,22 @@ export class LoginComponent implements OnInit {
     });
   }
 
-  send(event: Event) {
+  async send() {
 
-    event.preventDefault();
-    this.router.navigateByUrl("/home")
-    // TODO: Validate user
-    // this.isInvalid
-    // this.loading
+    if (this.form.valid){
+      this.user = {
+        Email: this.form.value.name,
+        Password: this.form.value.password
+      }
+      const token = await this.authService.login(this.user);
+      if (token !== 'Usuario y/o contraseña incorrectos.'){
+        this.authService.setCurrentUser(token);
+        this.router.navigateByUrl("/home")
+      }
+      else{
+        alert(token);
+      }
+    }
   }
 
   // Getters

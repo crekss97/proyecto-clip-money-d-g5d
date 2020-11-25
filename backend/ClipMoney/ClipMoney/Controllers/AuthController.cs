@@ -27,7 +27,7 @@ namespace ClipMoney.Controllers
         }
 
         // GET api/<AuthController>/5
-        [HttpGet("login")]
+        [HttpPost("login")]
         public IActionResult Get(UserModel user)
         {
             var token = _authBusinessLogic.LoginUser(user);

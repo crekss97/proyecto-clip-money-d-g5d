@@ -16,7 +16,6 @@ namespace ClipMoney.BusinessLogic
     public class AuthBusinessLogic
     {
         private readonly AuthRepository _authRepository;
-        private readonly Configuration _config;
         public AuthBusinessLogic()
         {
             _authRepository = new AuthRepository();

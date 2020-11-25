@@ -2,16 +2,16 @@
     <div class="login__container">
         <h1>Hola!</h1>
         <img src="assets/images/wallet.svg" alt="wallet-icon">
-        <form [formGroup]='form' novalidate (ngSubmit)="send($event)" class="login__form">
-            <input 
+        <form [formGroup]='form' novalidate (ngSubmit)="send()" class="login__form">
+            <input
             formControlName='name'
-            [class.is-invalid]='nameFieldValid || isInvalid' 
+            [class.is-invalid]='nameFieldValid || isInvalid'
             type="text" placeholder="Usuario"
             >
-            <input 
-            formControlName='password' 
-            [class.is-invalid]='passwordFieldValid || isInvalid' 
-            type="password" 
+            <input
+            formControlName='password'
+            [class.is-invalid]='passwordFieldValid || isInvalid'
+            type="password"
             placeholder="Contraseña"
             >
             <button [disabled]="this.form.invalid" type="submit">Ingresar</button>

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29613.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClipMoney", "ClipMoney\ClipMoney.csproj", "{A2BDA94E-CA93-47E6-9F38-76E91B9F4D9D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A2BDA94E-CA93-47E6-9F38-76E91B9F4D9D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A2BDA94E-CA93-47E6-9F38-76E91B9F4D9D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A2BDA94E-CA93-47E6-9F38-76E91B9F4D9D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A2BDA94E-CA93-47E6-9F38-76E91B9F4D9D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {22968B94-B5D3-4BD5-B55B-88FB1C014593}
+	EndGlobalSection
+EndGlobal

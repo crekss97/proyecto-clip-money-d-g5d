@@ -1,0 +1,130 @@
+C:\Repositorios\ClipMoney\proyecto-clip-money-d-g5d\backend\ClipMoney\ClipMoney\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Repositorios\ClipMoney\proyecto-clip-money-d-g5d\backend\ClipMoney\ClipMoney\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Repositorios\ClipMoney\proyecto-clip-money-d-g5d\backend\ClipMoney\ClipMoney\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Repositorios\ClipMoney\proyecto-clip-money-d-g5d\backend\ClipMoney\ClipMoney\bin\Debug\netcoreapp3.1\ClipMoney.exe
+C:\Repositorios\ClipMoney\proyecto-clip-money-d-g5d\backend\ClipMoney\ClipMoney\obj\Debug\netcoreapp3.1\ClipMoney.csprojAssemblyReference.cache
+C:\Repositorios\ClipMoney\proyecto-clip-money-d-g5d\backend\ClipMoney\ClipMoney\obj\Debug\netcoreapp3.1\ClipMoney.AssemblyInfoInputs.cache
+C:\Repositorios\ClipMoney\proyecto-clip-money-d-g5d\backend\ClipMoney\ClipMoney\obj\Debug\netcoreapp3.1\ClipMoney.AssemblyInfo.cs
+C:\Repositorios\ClipMoney\proyecto-clip-money-d-g5d\backend\ClipMoney\ClipMoney\obj\Debug\netcoreapp3.1\ClipMoney.RazorTargetAssemblyInfo.cache
+C:\Repositorios\ClipMoney\proyecto-clip-money-d-g5d\backend\ClipMoney\ClipMoney\obj\Debug\netcoreapp3.1\staticwebassets\ClipMoney.StaticWebAssets.Manifest.cache
+C:\Repositorios\ClipMoney\proyecto-clip-money-d-g5d\backend\ClipMoney\ClipMoney\obj\Debug\netcoreapp3.1\staticwebassets\ClipMoney.StaticWebAssets.xml
+C:\Repositorios\ClipMoney\proyecto-clip-money-d-g5d\backend\ClipMoney\ClipMoney\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Repositorios\ClipMoney\proyecto-clip-money-d-g5d\backend\ClipMoney\ClipMoney\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Repositorios\ClipMoney\proyecto-clip-money-d-g5d\backend\ClipMoney\ClipMoney\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Repositorios\ClipMoney\proyecto-clip-money-d-g5d\backend\ClipMoney\ClipMoney\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Repositorios\ClipMoney\proyecto-clip-money-d-g5d\backend\ClipMoney\ClipMoney\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Repositorios\ClipMoney\proyecto-clip-money-d-g5d\backend\ClipMoney\ClipMoney\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Repositorios\ClipMoney\proyecto-clip-money-d-g5d\backend\ClipMoney\ClipMoney\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Repositorios\ClipMoney\proyecto-clip-money-d-g5d\backend\ClipMoney\ClipMoney\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Repositorios\ClipMoney\proyecto-clip-money-d-g5d\backend\ClipMoney\ClipMoney\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Repositorios\ClipMoney\proyecto-clip-money-d-g5d\backend\ClipMoney\ClipMoney\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Repositorios\ClipMoney\proyecto-clip-money-d-g5d\backend\ClipMoney\ClipMoney\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Repositorios\ClipMoney\proyecto-clip-money-d-g5d\backend\ClipMoney\ClipMoney\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\Repositorios\ClipMoney\proyecto-clip-money-d-g5d\backend\ClipMoney\ClipMoney\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Repositorios\ClipMoney\proyecto-clip-money-d-g5d\backend\ClipMoney\ClipMoney\obj\Debug\netcoreapp3.1\ClipMoney.csproj.CopyComplete
+C:\Repositorios\ClipMoney\proyecto-clip-money-d-g5d\backend\ClipMoney\ClipMoney\bin\Debug\netcoreapp3.1\Humanizer.dll
+C:\Repositorios\ClipMoney\proyecto-clip-money-d-g5d\backend\ClipMoney\ClipMoney\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Repositorios\ClipMoney\proyecto-clip-money-d-g5d\backend\ClipMoney\ClipMoney\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Repositorios\ClipMoney\proyecto-clip-money-d-g5d\backend\ClipMoney\ClipMoney\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Repositorios\ClipMoney\proyecto-clip-money-d-g5d\backend\ClipMoney\ClipMoney\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Repositorios\ClipMoney\proyecto-clip-money-d-g5d\backend\ClipMoney\ClipMoney\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Repositorios\ClipMoney\proyecto-clip-money-d-g5d\backend\ClipMoney\ClipMoney\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Repositorios\ClipMoney\proyecto-clip-money-d-g5d\backend\ClipMoney\ClipMoney\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Repositorios\ClipMoney\proyecto-clip-money-d-g5d\backend\ClipMoney\ClipMoney\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Repositorios\ClipMoney\proyecto-clip-money-d-g5d\backend\ClipMoney\ClipMoney\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Repositorios\ClipMoney\proyecto-clip-money-d-g5d\backend\ClipMoney\ClipMoney\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Repositorios\ClipMoney\proyecto-clip-money-d-g5d\backend\ClipMoney\ClipMoney\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Repositorios\ClipMoney\proyecto-clip-money-d-g5d\backend\ClipMoney\ClipMoney\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Repositorios\ClipMoney\proyecto-clip-money-d-g5d\backend\ClipMoney\ClipMoney\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Repositorios\ClipMoney\proyecto-clip-money-d-g5d\backend\ClipMoney\ClipMoney\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Repositorios\ClipMoney\proyecto-clip-money-d-g5d\backend\ClipMoney\ClipMoney\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Repositorios\ClipMoney\proyecto-clip-money-d-g5d\backend\ClipMoney\ClipMoney\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Repositorios\ClipMoney\proyecto-clip-money-d-g5d\backend\ClipMoney\ClipMoney\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Repositorios\ClipMoney\proyecto-clip-money-d-g5d\backend\ClipMoney\ClipMoney\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Repositorios\ClipMoney\proyecto-clip-money-d-g5d\backend\ClipMoney\ClipMoney\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Repositorios\ClipMoney\proyecto-clip-money-d-g5d\backend\ClipMoney\ClipMoney\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Repositorios\ClipMoney\proyecto-clip-money-d-g5d\backend\ClipMoney\ClipMoney\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Repositorios\ClipMoney\proyecto-clip-money-d-g5d\backend\ClipMoney\ClipMoney\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Repositorios\ClipMoney\proyecto-clip-money-d-g5d\backend\ClipMoney\ClipMoney\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Repositorios\ClipMoney\proyecto-clip-money-d-g5d\backend\ClipMoney\ClipMoney\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Repositorios\ClipMoney\proyecto-clip-money-d-g5d\backend\ClipMoney\ClipMoney\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Repositorios\ClipMoney\proyecto-clip-money-d-g5d\backend\ClipMoney\ClipMoney\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Repositorios\ClipMoney\proyecto-clip-money-d-g5d\backend\ClipMoney\ClipMoney\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Repositorios\ClipMoney\proyecto-clip-money-d-g5d\backend\ClipMoney\ClipMoney\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Santi\Santi facultad\CLIP\Repositorios\clip-money\proyecto-clip-money-d-g5d\backend\ClipMoney\ClipMoney\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\Santi\Santi facultad\CLIP\Repositorios\clip-money\proyecto-clip-money-d-g5d\backend\ClipMoney\ClipMoney\bin\Debug\netcoreapp3.1\appsettings.json
+D:\Santi\Santi facultad\CLIP\Repositorios\clip-money\proyecto-clip-money-d-g5d\backend\ClipMoney\ClipMoney\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+D:\Santi\Santi facultad\CLIP\Repositorios\clip-money\proyecto-clip-money-d-g5d\backend\ClipMoney\ClipMoney\bin\Debug\netcoreapp3.1\ClipMoney.exe
+D:\Santi\Santi facultad\CLIP\Repositorios\clip-money\proyecto-clip-money-d-g5d\backend\ClipMoney\ClipMoney\bin\Debug\netcoreapp3.1\ClipMoney.deps.json
+D:\Santi\Santi facultad\CLIP\Repositorios\clip-money\proyecto-clip-money-d-g5d\backend\ClipMoney\ClipMoney\bin\Debug\netcoreapp3.1\ClipMoney.runtimeconfig.json
+D:\Santi\Santi facultad\CLIP\Repositorios\clip-money\proyecto-clip-money-d-g5d\backend\ClipMoney\ClipMoney\bin\Debug\netcoreapp3.1\ClipMoney.runtimeconfig.dev.json
+D:\Santi\Santi facultad\CLIP\Repositorios\clip-money\proyecto-clip-money-d-g5d\backend\ClipMoney\ClipMoney\bin\Debug\netcoreapp3.1\ClipMoney.dll
+D:\Santi\Santi facultad\CLIP\Repositorios\clip-money\proyecto-clip-money-d-g5d\backend\ClipMoney\ClipMoney\bin\Debug\netcoreapp3.1\ClipMoney.pdb
+D:\Santi\Santi facultad\CLIP\Repositorios\clip-money\proyecto-clip-money-d-g5d\backend\ClipMoney\ClipMoney\bin\Debug\netcoreapp3.1\Humanizer.dll
+D:\Santi\Santi facultad\CLIP\Repositorios\clip-money\proyecto-clip-money-d-g5d\backend\ClipMoney\ClipMoney\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Santi\Santi facultad\CLIP\Repositorios\clip-money\proyecto-clip-money-d-g5d\backend\ClipMoney\ClipMoney\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\Santi\Santi facultad\CLIP\Repositorios\clip-money\proyecto-clip-money-d-g5d\backend\ClipMoney\ClipMoney\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Santi\Santi facultad\CLIP\Repositorios\clip-money\proyecto-clip-money-d-g5d\backend\ClipMoney\ClipMoney\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+D:\Santi\Santi facultad\CLIP\Repositorios\clip-money\proyecto-clip-money-d-g5d\backend\ClipMoney\ClipMoney\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Santi\Santi facultad\CLIP\Repositorios\clip-money\proyecto-clip-money-d-g5d\backend\ClipMoney\ClipMoney\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Santi\Santi facultad\CLIP\Repositorios\clip-money\proyecto-clip-money-d-g5d\backend\ClipMoney\ClipMoney\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Santi\Santi facultad\CLIP\Repositorios\clip-money\proyecto-clip-money-d-g5d\backend\ClipMoney\ClipMoney\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\Santi\Santi facultad\CLIP\Repositorios\clip-money\proyecto-clip-money-d-g5d\backend\ClipMoney\ClipMoney\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Santi\Santi facultad\CLIP\Repositorios\clip-money\proyecto-clip-money-d-g5d\backend\ClipMoney\ClipMoney\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\Santi\Santi facultad\CLIP\Repositorios\clip-money\proyecto-clip-money-d-g5d\backend\ClipMoney\ClipMoney\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Santi\Santi facultad\CLIP\Repositorios\clip-money\proyecto-clip-money-d-g5d\backend\ClipMoney\ClipMoney\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\Santi\Santi facultad\CLIP\Repositorios\clip-money\proyecto-clip-money-d-g5d\backend\ClipMoney\ClipMoney\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Santi\Santi facultad\CLIP\Repositorios\clip-money\proyecto-clip-money-d-g5d\backend\ClipMoney\ClipMoney\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\Santi\Santi facultad\CLIP\Repositorios\clip-money\proyecto-clip-money-d-g5d\backend\ClipMoney\ClipMoney\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\Santi\Santi facultad\CLIP\Repositorios\clip-money\proyecto-clip-money-d-g5d\backend\ClipMoney\ClipMoney\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\Santi\Santi facultad\CLIP\Repositorios\clip-money\proyecto-clip-money-d-g5d\backend\ClipMoney\ClipMoney\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Santi\Santi facultad\CLIP\Repositorios\clip-money\proyecto-clip-money-d-g5d\backend\ClipMoney\ClipMoney\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+D:\Santi\Santi facultad\CLIP\Repositorios\clip-money\proyecto-clip-money-d-g5d\backend\ClipMoney\ClipMoney\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+D:\Santi\Santi facultad\CLIP\Repositorios\clip-money\proyecto-clip-money-d-g5d\backend\ClipMoney\ClipMoney\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Santi\Santi facultad\CLIP\Repositorios\clip-money\proyecto-clip-money-d-g5d\backend\ClipMoney\ClipMoney\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+D:\Santi\Santi facultad\CLIP\Repositorios\clip-money\proyecto-clip-money-d-g5d\backend\ClipMoney\ClipMoney\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\Santi\Santi facultad\CLIP\Repositorios\clip-money\proyecto-clip-money-d-g5d\backend\ClipMoney\ClipMoney\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+D:\Santi\Santi facultad\CLIP\Repositorios\clip-money\proyecto-clip-money-d-g5d\backend\ClipMoney\ClipMoney\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+D:\Santi\Santi facultad\CLIP\Repositorios\clip-money\proyecto-clip-money-d-g5d\backend\ClipMoney\ClipMoney\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\Santi\Santi facultad\CLIP\Repositorios\clip-money\proyecto-clip-money-d-g5d\backend\ClipMoney\ClipMoney\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+D:\Santi\Santi facultad\CLIP\Repositorios\clip-money\proyecto-clip-money-d-g5d\backend\ClipMoney\ClipMoney\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+D:\Santi\Santi facultad\CLIP\Repositorios\clip-money\proyecto-clip-money-d-g5d\backend\ClipMoney\ClipMoney\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+D:\Santi\Santi facultad\CLIP\Repositorios\clip-money\proyecto-clip-money-d-g5d\backend\ClipMoney\ClipMoney\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\Santi\Santi facultad\CLIP\Repositorios\clip-money\proyecto-clip-money-d-g5d\backend\ClipMoney\ClipMoney\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Santi\Santi facultad\CLIP\Repositorios\clip-money\proyecto-clip-money-d-g5d\backend\ClipMoney\ClipMoney\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Santi\Santi facultad\CLIP\Repositorios\clip-money\proyecto-clip-money-d-g5d\backend\ClipMoney\ClipMoney\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Santi\Santi facultad\CLIP\Repositorios\clip-money\proyecto-clip-money-d-g5d\backend\ClipMoney\ClipMoney\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Santi\Santi facultad\CLIP\Repositorios\clip-money\proyecto-clip-money-d-g5d\backend\ClipMoney\ClipMoney\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Santi\Santi facultad\CLIP\Repositorios\clip-money\proyecto-clip-money-d-g5d\backend\ClipMoney\ClipMoney\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Santi\Santi facultad\CLIP\Repositorios\clip-money\proyecto-clip-money-d-g5d\backend\ClipMoney\ClipMoney\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Santi\Santi facultad\CLIP\Repositorios\clip-money\proyecto-clip-money-d-g5d\backend\ClipMoney\ClipMoney\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Santi\Santi facultad\CLIP\Repositorios\clip-money\proyecto-clip-money-d-g5d\backend\ClipMoney\ClipMoney\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Santi\Santi facultad\CLIP\Repositorios\clip-money\proyecto-clip-money-d-g5d\backend\ClipMoney\ClipMoney\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Santi\Santi facultad\CLIP\Repositorios\clip-money\proyecto-clip-money-d-g5d\backend\ClipMoney\ClipMoney\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Santi\Santi facultad\CLIP\Repositorios\clip-money\proyecto-clip-money-d-g5d\backend\ClipMoney\ClipMoney\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Santi\Santi facultad\CLIP\Repositorios\clip-money\proyecto-clip-money-d-g5d\backend\ClipMoney\ClipMoney\obj\Debug\netcoreapp3.1\ClipMoney.csprojAssemblyReference.cache
+D:\Santi\Santi facultad\CLIP\Repositorios\clip-money\proyecto-clip-money-d-g5d\backend\ClipMoney\ClipMoney\obj\Debug\netcoreapp3.1\ClipMoney.AssemblyInfoInputs.cache
+D:\Santi\Santi facultad\CLIP\Repositorios\clip-money\proyecto-clip-money-d-g5d\backend\ClipMoney\ClipMoney\obj\Debug\netcoreapp3.1\ClipMoney.AssemblyInfo.cs
+D:\Santi\Santi facultad\CLIP\Repositorios\clip-money\proyecto-clip-money-d-g5d\backend\ClipMoney\ClipMoney\obj\Debug\netcoreapp3.1\ClipMoney.RazorTargetAssemblyInfo.cache
+D:\Santi\Santi facultad\CLIP\Repositorios\clip-money\proyecto-clip-money-d-g5d\backend\ClipMoney\ClipMoney\obj\Debug\netcoreapp3.1\ClipMoney.csproj.CopyComplete
+D:\Santi\Santi facultad\CLIP\Repositorios\clip-money\proyecto-clip-money-d-g5d\backend\ClipMoney\ClipMoney\obj\Debug\netcoreapp3.1\staticwebassets\ClipMoney.StaticWebAssets.Manifest.cache
+D:\Santi\Santi facultad\CLIP\Repositorios\clip-money\proyecto-clip-money-d-g5d\backend\ClipMoney\ClipMoney\obj\Debug\netcoreapp3.1\staticwebassets\ClipMoney.StaticWebAssets.xml
+D:\Santi\Santi facultad\CLIP\Repositorios\clip-money\proyecto-clip-money-d-g5d\backend\ClipMoney\ClipMoney\obj\Debug\netcoreapp3.1\ClipMoney.dll
+D:\Santi\Santi facultad\CLIP\Repositorios\clip-money\proyecto-clip-money-d-g5d\backend\ClipMoney\ClipMoney\obj\Debug\netcoreapp3.1\ClipMoney.pdb
+D:\Santi\Santi facultad\CLIP\Repositorios\clip-money\proyecto-clip-money-d-g5d\backend\ClipMoney\ClipMoney\obj\Debug\netcoreapp3.1\ClipMoney.genruntimeconfig.cache
+D:\Santi\Santi facultad\CLIP\Repositorios\clip-money\proyecto-clip-money-d-g5d\backend\ClipMoney\ClipMoney\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\Santi\Santi facultad\CLIP\Repositorios\clip-money\proyecto-clip-money-d-g5d\backend\ClipMoney\ClipMoney\obj\Debug\netcoreapp3.1\ClipMoney.csproj.CoreCompileInputs.cache
+D:\Santi\Santi facultad\CLIP\Repositorios\clip-money\proyecto-clip-money-d-g5d\backend\ClipMoney\ClipMoney\obj\Debug\netcoreapp3.1\ClipMoney.MvcApplicationPartsAssemblyInfo.cache
+D:\Santi\Santi facultad\CLIP\Repositorios\clip-money\proyecto-clip-money-d-g5d\backend\ClipMoney\ClipMoney\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+D:\Santi\Santi facultad\CLIP\Repositorios\clip-money\proyecto-clip-money-d-g5d\backend\ClipMoney\ClipMoney\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+D:\Santi\Santi facultad\CLIP\Repositorios\clip-money\proyecto-clip-money-d-g5d\backend\ClipMoney\ClipMoney\bin\Debug\netcoreapp3.1\System.Security.AccessControl.dll
+D:\Santi\Santi facultad\CLIP\Repositorios\clip-money\proyecto-clip-money-d-g5d\backend\ClipMoney\ClipMoney\bin\Debug\netcoreapp3.1\System.Security.Permissions.dll
+D:\Santi\Santi facultad\CLIP\Repositorios\clip-money\proyecto-clip-money-d-g5d\backend\ClipMoney\ClipMoney\bin\Debug\netcoreapp3.1\System.Security.Principal.Windows.dll
+D:\Santi\Santi facultad\CLIP\Repositorios\clip-money\proyecto-clip-money-d-g5d\backend\ClipMoney\ClipMoney\bin\Debug\netcoreapp3.1\System.Windows.Extensions.dll
+D:\Santi\Santi facultad\CLIP\Repositorios\clip-money\proyecto-clip-money-d-g5d\backend\ClipMoney\ClipMoney\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\Santi\Santi facultad\CLIP\Repositorios\clip-money\proyecto-clip-money-d-g5d\backend\ClipMoney\ClipMoney\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Santi\Santi facultad\CLIP\Repositorios\clip-money\proyecto-clip-money-d-g5d\backend\ClipMoney\ClipMoney\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Santi\Santi facultad\CLIP\Repositorios\clip-money\proyecto-clip-money-d-g5d\backend\ClipMoney\ClipMoney\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Security.AccessControl.dll
+D:\Santi\Santi facultad\CLIP\Repositorios\clip-money\proyecto-clip-money-d-g5d\backend\ClipMoney\ClipMoney\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+D:\Santi\Santi facultad\CLIP\Repositorios\clip-money\proyecto-clip-money-d-g5d\backend\ClipMoney\ClipMoney\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+D:\Santi\Santi facultad\CLIP\Repositorios\clip-money\proyecto-clip-money-d-g5d\backend\ClipMoney\ClipMoney\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll

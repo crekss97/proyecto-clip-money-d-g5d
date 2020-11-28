@@ -13,18 +13,31 @@ using System.Threading.Tasks;
 
 namespace ClipMoney.BusinessLogic
 {
+    /// <summary>
+    /// Logica de negocio de logueo.
+    /// </summary>
     public class AuthBusinessLogic
     {
         private readonly AuthRepository _authRepository;
-        public AuthBusinessLogic()
+        public AuthBusinessLogic(AuthRepository authRepository)
         {
-            _authRepository = new AuthRepository();
+            _authRepository = authRepository;
         }
+
+        /// <summary>
+        /// Registra un nuevo usuario.
+        /// </summary>
+        /// <param name="user"></param>
         public void SignInUser(UserModel user)
         {
             _authRepository.SignInUser(user);
         }
 
+        /// <summary>
+        /// Verifica la existencia del usuario y genera el token en caso de existir. En caso de no existir genera un mensaje de error.
+        /// </summary>
+        /// <param name="user"></param>
+        /// <returns></returns>
         public string LoginUser(UserModel user)
         {
             try
@@ -48,6 +61,11 @@ namespace ClipMoney.BusinessLogic
            
         }
 
+        /// <summary>
+        /// Genera el jwt token con los datos del usuario.
+        /// </summary>
+        /// <param name="user"></param>
+        /// <returns></returns>
         private string GenerarJWT(UserModel user)
         {
             var key = new SymmetricSecurityKey(Encoding.UTF8.GetBytes("C75D02A9D9E396ABD5FFE60A8C0D6DCFA8AC6C5EB1A9A300AA271140C8C0A0D4"));

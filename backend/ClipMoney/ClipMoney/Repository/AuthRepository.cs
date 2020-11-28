@@ -1,4 +1,5 @@
-﻿using ClipMoney.Entities;
+﻿using AutoMapper;
+using ClipMoney.Entities;
 using ClipMoney.Models;
 using System;
 using System.Collections.Generic;
@@ -10,9 +11,11 @@ namespace ClipMoney.Repository
     public class AuthRepository
     {
         private readonly BilleteraVirtualContext _context;
-        public AuthRepository()
+        private readonly IMapper _mapper;
+        public AuthRepository(BilleteraVirtualContext context, IMapper mapper)
         {
-            _context = new BilleteraVirtualContext();
+            _context = context;
+            _mapper = mapper;
         }
         public void SignInUser(UserModel user)
         {
@@ -35,14 +38,9 @@ namespace ClipMoney.Repository
             var userDb = (from u in _context.Usuarios
                           where u.Mail == user.Email
                           && u.Contraseña == user.Password
-                          select new UserModel
-                          {
-                              Id = u.IdUsuario,
-                              Email = u.Mail,
-                              Firstname = u.NombreUsuario,
-                              Lastname = u.Apellido
-                          }).FirstOrDefault();
-            return userDb;
+                          select u).FirstOrDefault();
+
+            return _mapper.Map<UserModel>(userDb);
         }
     }
 }

@@ -1,0 +1,47 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>ClipMoney</name>
+    </assembly>
+    <members>
+        <member name="T:ClipMoney.BusinessLogic.AuthBusinessLogic">
+            <summary>
+            Logica de negocio de logueo.
+            </summary>
+        </member>
+        <member name="M:ClipMoney.BusinessLogic.AuthBusinessLogic.SignInUser(ClipMoney.Models.UserModel)">
+            <summary>
+            Registra un nuevo usuario.
+            </summary>
+            <param name="user"></param>
+        </member>
+        <member name="M:ClipMoney.BusinessLogic.AuthBusinessLogic.LoginUser(ClipMoney.Models.UserModel)">
+            <summary>
+            Verifica la existencia del usuario y genera el token en caso de existir. En caso de no existir genera un mensaje de error.
+            </summary>
+            <param name="user"></param>
+            <returns></returns>
+        </member>
+        <member name="M:ClipMoney.BusinessLogic.AuthBusinessLogic.GenerarJWT(ClipMoney.Models.UserModel)">
+            <summary>
+            Genera el jwt token con los datos del usuario.
+            </summary>
+            <param name="user"></param>
+            <returns></returns>
+        </member>
+        <member name="M:ClipMoney.Controllers.AuthController.Get(ClipMoney.Models.UserModel)">
+            <summary>
+            Verifica las credenciales del usuario y retorna el jwt token.
+            </summary>
+            <param name="user"></param>
+            <returns></returns>
+        </member>
+        <member name="M:ClipMoney.Controllers.AuthController.RegisterUser(ClipMoney.Models.UserModel)">
+            <summary>
+            Registra un nuevo usuario.
+            </summary>
+            <param name="newUser"></param>
+            <returns></returns>
+        </member>
+    </members>
+</doc>

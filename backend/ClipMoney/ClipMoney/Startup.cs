@@ -3,11 +3,17 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using AutoMapper;
+using ClipMoney.BusinessLogic;
+using ClipMoney.Configuration;
+using ClipMoney.Entities;
+using ClipMoney.Repository;
 using Microsoft.AspNetCore.Authentication.JwtBearer;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.AspNetCore.HttpsPolicy;
 using Microsoft.AspNetCore.Mvc;
+using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
@@ -28,6 +34,16 @@ namespace ClipMoney
         // This method gets called by the runtime. Use this method to add services to the container.
         public void ConfigureServices(IServiceCollection services)
         {
+            //Conexion a base de datos de Santi.
+            services.AddDbContext<BilleteraVirtualContext>(options => options.UseSqlServer(Configuration.GetConnectionString("Santi")));
+            
+            //Conexion a base de datos de Nico.
+            //services.AddDbContext<BilleteraVirtualContext>(options => options.UseSqlServer(Configuration.GetConnectionString("Nico")));
+            
+            services.AddSwaggerDocumentation(Configuration);
+
+            services.AddControllers().AddNewtonsoftJson(c => c.UseMemberCasing());
+
             services.AddAuthentication(JwtBearerDefaults.AuthenticationScheme).AddJwtBearer(jwt =>
             {
                 jwt.RequireHttpsMetadata = false;
@@ -40,7 +56,11 @@ namespace ClipMoney
                     ValidateAudience = false
                 };
             });
-            services.AddControllers();
+
+            services.AddAutoMapper(typeof(Startup));
+
+            services.AddTransient<AuthRepository>();
+            services.AddTransient<AuthBusinessLogic>();
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
@@ -58,6 +78,10 @@ namespace ClipMoney
             app.UseRouting();
 
             app.UseAuthorization();
+
+            app.UseDefaultFiles();
+            app.UseStaticFiles();
+            app.UseSwaggerDoc(Configuration);
 
             app.UseEndpoints(endpoints =>
             {

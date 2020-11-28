@@ -15,43 +15,34 @@ namespace ClipMoney.Controllers
     public class AuthController : ControllerBase
     {
         private readonly AuthBusinessLogic _authBusinessLogic;
-        public AuthController()
+        public AuthController(AuthBusinessLogic authBusinessLogic)
         {
-            _authBusinessLogic = new AuthBusinessLogic();
-        }
-        // GET: api/<AuthController>
-        [HttpGet]
-        public IEnumerable<string> Get()
-        {
-            return new string[] { "value1", "value2" };
+            _authBusinessLogic = authBusinessLogic;
         }
 
-        // GET api/<AuthController>/5
+        /// <summary>
+        /// Verifica las credenciales del usuario y retorna el jwt token.
+        /// </summary>
+        /// <param name="user"></param>
+        /// <returns></returns>
         [HttpPost("login")]
+        [Produces(typeof(string))]
         public IActionResult Get(UserModel user)
         {
             var token = _authBusinessLogic.LoginUser(user);
             return Ok(token);
         }
 
-        // POST api/<AuthController>
+        /// <summary>
+        /// Registra un nuevo usuario.
+        /// </summary>
+        /// <param name="newUser"></param>
+        /// <returns></returns>
         [HttpPost("sign-in")]
         public IActionResult RegisterUser([FromBody] UserModel newUser)
         {
             _authBusinessLogic.SignInUser(newUser);
             return Ok();
-        }
-
-        // PUT api/<AuthController>/5
-        [HttpPut("{id}")]
-        public void Put(int id, [FromBody] string value)
-        {
-        }
-
-        // DELETE api/<AuthController>/5
-        [HttpDelete("{id}")]
-        public void Delete(int id)
-        {
         }
     }
 }

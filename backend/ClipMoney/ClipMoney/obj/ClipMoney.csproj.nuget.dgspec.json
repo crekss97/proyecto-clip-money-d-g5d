@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Santi\\Santi facultad\\CLIP\\Repositorios\\clip-money\\proyecto-clip-money-d-g5d\\backend\\ClipMoney\\ClipMoney\\ClipMoney.csproj": {}
+    "E:\\vale\\Programacion\\CLIP\\fork\\proyecto-clip-money-d-g5d\\backend\\ClipMoney\\ClipMoney\\ClipMoney.csproj": {}
   },
   "projects": {
-    "D:\\Santi\\Santi facultad\\CLIP\\Repositorios\\clip-money\\proyecto-clip-money-d-g5d\\backend\\ClipMoney\\ClipMoney\\ClipMoney.csproj": {
+    "E:\\vale\\Programacion\\CLIP\\fork\\proyecto-clip-money-d-g5d\\backend\\ClipMoney\\ClipMoney\\ClipMoney.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Santi\\Santi facultad\\CLIP\\Repositorios\\clip-money\\proyecto-clip-money-d-g5d\\backend\\ClipMoney\\ClipMoney\\ClipMoney.csproj",
+        "projectUniqueName": "E:\\vale\\Programacion\\CLIP\\fork\\proyecto-clip-money-d-g5d\\backend\\ClipMoney\\ClipMoney\\ClipMoney.csproj",
         "projectName": "ClipMoney",
-        "projectPath": "D:\\Santi\\Santi facultad\\CLIP\\Repositorios\\clip-money\\proyecto-clip-money-d-g5d\\backend\\ClipMoney\\ClipMoney\\ClipMoney.csproj",
-        "packagesPath": "C:\\Users\\Claudio\\.nuget\\packages\\",
-        "outputPath": "D:\\Santi\\Santi facultad\\CLIP\\Repositorios\\clip-money\\proyecto-clip-money-d-g5d\\backend\\ClipMoney\\ClipMoney\\obj\\",
+        "projectPath": "E:\\vale\\Programacion\\CLIP\\fork\\proyecto-clip-money-d-g5d\\backend\\ClipMoney\\ClipMoney\\ClipMoney.csproj",
+        "packagesPath": "C:\\Users\\VALENTIN\\.nuget\\packages\\",
+        "outputPath": "E:\\vale\\Programacion\\CLIP\\fork\\proyecto-clip-money-d-g5d\\backend\\ClipMoney\\ClipMoney\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Claudio\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\VALENTIN\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -121,7 +121,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.401\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.402\\RuntimeIdentifierGraph.json"
         }
       }
     }
